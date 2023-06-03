@@ -45,7 +45,7 @@ https://github.com/Andr3wHolovchuk/celo-react-jokes-dapp.git
 ```
 
 ```sh
-cd celo-jokes-dapp
+cd celo-react-jokes-dapp
 ```
 
 This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
