@@ -1,0 +1,58 @@
+{
+  "0xdc9a78Fa3A2fe9cdd4d1641D0bC038b03F4D3468": {
+    "register": {
+      "minted": true,
+      "triggered": true
+    },
+    "first_joke": {
+      "minted": false,
+      "triggered": true
+    },
+    "rating_five": {
+      "minted": false,
+      "triggered": false
+    }
+  },
+  "0xAb887416Fd698012dF3F79126Ab1629bEB2Aee17": {
+    "register": {
+      "minted": true,
+      "triggered": true
+    },
+    "first_joke": {
+      "minted": false,
+      "triggered": true
+    },
+    "rating_five": {
+      "minted": false,
+      "triggered": false
+    }
+  },
+  "0x589538074ad6862a725642d817614d72bf5956a2": {
+    "register": {
+      "minted": false,
+      "triggered": true
+    },
+    "first_joke": {
+      "minted": false,
+      "triggered": false
+    },
+    "rating_five": {
+      "minted": false,
+      "triggered": false
+    }
+  },
+  "0x589538074AD6862A725642d817614d72bf5956a2": {
+    "register": {
+      "minted": false,
+      "triggered": true
+    },
+    "first_joke": {
+      "minted": false,
+      "triggered": false
+    },
+    "rating_five": {
+      "minted": false,
+      "triggered": false
+    }
+  }
+}
